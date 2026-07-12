@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2070469846693708079",
+    "created_at": "2026-06-26T11:30:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:30:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070469846693708079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CuteCatsMagic/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/CuteCatsMagic/status/2070232923828064736",
+          "start": 13,
+          "url": "https://t.co/s9AjDO04Vh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070469846693708079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070232923828064736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的猫从来不给我这样抱。 https://t.co/s9AjDO04Vh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13490,
+        "height": 720,
+        "media_key": "7_2070232897370370048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070232897370370048/pu/img/fX5me97FZlDAgUBT.jpg",
+        "public_metrics": {
+          "view_count": 327096
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070232897370370048/pu/vid/avc1/478x270/TFS7xa0FiGtiCM9v.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070232897370370048/pu/vid/avc1/638x360/cda6okzr1bk3B6GV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070232897370370048/pu/vid/avc1/1276x720/o5ZlCBcUmrVTbVrO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070232897370370048/pu/pl/j6niYJuP1in5jC0J.m3u8"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2070469846693708079",
+        "created_at": "2026-06-26T11:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070469846693708079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CuteCatsMagic/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/CuteCatsMagic/status/2070232923828064736",
+              "start": 13,
+              "url": "https://t.co/s9AjDO04Vh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070469846693708079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070232923828064736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的猫从来不给我这样抱。 https://t.co/s9AjDO04Vh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070232897370370048"
+          ]
+        },
+        "author_id": "3326305791",
+        "conversation_id": "2070232923828064736",
+        "created_at": "2026-06-25T19:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070232923828064736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvVO82TtcI",
+              "end": 60,
+              "expanded_url": "https://x.com/CuteCatsMagic/status/2070232923828064736/video/1",
+              "media_key": "7_2070232897370370048",
+              "start": 37,
+              "url": "https://t.co/RvVO82TtcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070232923828064736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 579,
+          "impression_count": 804722,
+          "like_count": 7296,
+          "quote_count": 39,
+          "reply_count": 24,
+          "retweet_count": 569
+        },
+        "reply_settings": "everyone",
+        "text": "Forget the pillow when I'm here. 😸💕🐱 https://t.co/RvVO82TtcI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|最爱的骚b❤️：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "TheB17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/QwIZQw05Ms"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 415,
+          "like_count": 3036,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 701
+        },
+        "url": "https://t.co/QwIZQw05Ms",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2015-06-15T06:25:54.000Z",
+        "description": "Cute cat videos 😺",
+        "id": "3326305791",
+        "name": "Cat 🐈",
+        "pinned_tweet_id": "2070232923828064736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801704006932123648/-ngn25vp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112494,
+          "following_count": 17569,
+          "like_count": 86057,
+          "listed_count": 245,
+          "media_count": 12039,
+          "tweet_count": 51200
+        },
+        "url": "",
+        "username": "CuteCatsMagic",
+        "verified": true
+      }
+    ]
+  }
+}

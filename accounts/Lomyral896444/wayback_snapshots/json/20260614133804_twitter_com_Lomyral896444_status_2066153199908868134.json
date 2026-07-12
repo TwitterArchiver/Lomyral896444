@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2066143667203772650",
+    "created_at": "2026-06-14T13:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066153199908868134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046957580791189504",
+          "start": 0,
+          "username": "yumeialinlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066153199908868134",
+    "in_reply_to_user_id": "2046957580791189504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066148624665645084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeialinlin 呃呃呃我是去开阿普唑仑，7.9r/20t的阿普唑仑+300多的甜梦口服液"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2066143667203772650",
+        "created_at": "2026-06-14T13:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066153199908868134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046957580791189504",
+              "start": 0,
+              "username": "yumeialinlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066153199908868134",
+        "in_reply_to_user_id": "2046957580791189504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066148624665645084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeialinlin 呃呃呃我是去开阿普唑仑，7.9r/20t的阿普唑仑+300多的甜梦口服液"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046957580791189504",
+        "conversation_id": "2066143667203772650",
+        "created_at": "2026-06-14T13:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066148624665645084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066148624665645084",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066143667203772650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 之前去开右佐匹克隆硬给我塞了200多块钱的中成药，把我饭钱都差点干没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|骚b：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 213,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 130
+        },
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-22T14:21:44.000Z",
+        "description": "长叹息以掩涕兮，哀民生之多艰",
+        "id": "2046957580791189504",
+        "location": "格拉摩根",
+        "name": "玉米阿琳",
+        "pinned_tweet_id": "2062796073249476853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065967191871344640/EqF1huc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 66,
+          "like_count": 2517,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 302
+        },
+        "username": "yumeialinlin",
+        "verified": false
+      }
+    ]
+  }
+}

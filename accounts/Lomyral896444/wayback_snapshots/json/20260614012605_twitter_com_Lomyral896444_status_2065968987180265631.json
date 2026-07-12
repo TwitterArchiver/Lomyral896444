@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2065734224565641394",
+    "created_at": "2026-06-14T01:26:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T02:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065968987180265631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2009594484989026307",
+          "start": 0,
+          "username": "XiuJingDe953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065968987180265631",
+    "in_reply_to_user_id": "2009594484989026307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065734224565641394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiuJingDe953 中成药事这样的，，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065734213094248448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKr2UnPakAAPLrd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2065734224565641394",
+        "created_at": "2026-06-14T01:26:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T02:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065968987180265631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2009594484989026307",
+              "start": 0,
+              "username": "XiuJingDe953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065968987180265631",
+        "in_reply_to_user_id": "2009594484989026307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065734224565641394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiuJingDe953 中成药事这样的，，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065734213094248448"
+          ]
+        },
+        "author_id": "2009594484989026307",
+        "conversation_id": "2065734224565641394",
+        "created_at": "2026-06-13T09:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065734224565641394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qq4OvyWr1R",
+              "end": 37,
+              "expanded_url": "https://x.com/XiuJingDe953/status/2065734224565641394/photo/1",
+              "media_key": "3_2065734213094248448",
+              "start": 14,
+              "url": "https://t.co/Qq4OvyWr1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065734224565641394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 474,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喂尚不明确是什么东西啊…… https://t.co/Qq4OvyWr1R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|骚b：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 197,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 99
+        },
+        "username": "Lomyral896444",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T11:54:09.000Z",
+        "description": "记忆森林",
+        "id": "2009594484989026307",
+        "location": "🚪  78",
+        "name": "修靖德",
+        "pinned_tweet_id": "2009597299635446139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016005313074192384/9y9kfA1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 82,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 332
+        },
+        "username": "XiuJingDe953",
+        "verified": false
+      }
+    ]
+  }
+}

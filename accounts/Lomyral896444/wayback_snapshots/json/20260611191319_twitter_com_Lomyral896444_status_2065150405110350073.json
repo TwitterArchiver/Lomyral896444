@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2059456878250467710",
+    "created_at": "2026-06-11T19:13:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T20:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065150405110350073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1960287742434353152",
+          "start": 0,
+          "username": "civoicclara"
+        },
+        {
+          "end": 27,
+          "id": "2050073911635894272",
+          "start": 13,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065150405110350073",
+    "in_reply_to_user_id": "1960287742434353152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062696709000733081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@civoicclara @Lomyral114514 你ao啊👁️3.0被举办了还在申诉中，，，我先转生4.0力(悲)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2059456878250467710",
+        "created_at": "2026-06-11T19:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065150405110350073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960287742434353152",
+              "start": 0,
+              "username": "civoicclara"
+            },
+            {
+              "end": 27,
+              "id": "2050073911635894272",
+              "start": 13,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065150405110350073",
+        "in_reply_to_user_id": "1960287742434353152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062696709000733081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@civoicclara @Lomyral114514 你ao啊👁️3.0被举办了还在申诉中，，，我先转生4.0力(悲)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960287742434353152",
+        "conversation_id": "2059456878250467710",
+        "created_at": "2026-06-05T00:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062696709000733081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062696709000733081",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059456878250467710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 诶诶好久没更新帖子了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "",
+        "id": "2065149033379971072",
+        "name": "Lomyral",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Lomyral896444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T10:26:50.000Z",
+        "description": "Whoa～05日常摸鱼\n大概常见于药物滥用帖子下吧:)",
+        "id": "1960287742434353152",
+        "name": "civoiccclara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960288833028931584/GvayyR-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 28,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 39
+        },
+        "username": "civoicclara",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 519,
+          "like_count": 4464,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

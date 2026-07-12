@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2066414001484136584",
+    "created_at": "2026-06-15T17:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066574947036901721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1483087280764071945",
+          "start": 0,
+          "username": "iirin_120917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066574947036901721",
+    "in_reply_to_user_id": "1483087280764071945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066414001484136584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iirin_120917 呃呃啊啊怎么更新到13.0了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066413993158393856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1glBUaQAAcHPS.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2066414001484136584",
+        "created_at": "2026-06-15T17:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066574947036901721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1483087280764071945",
+              "start": 0,
+              "username": "iirin_120917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066574947036901721",
+        "in_reply_to_user_id": "1483087280764071945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066414001484136584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iirin_120917 呃呃啊啊怎么更新到13.0了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066413993158393856"
+          ]
+        },
+        "author_id": "1483087280764071945",
+        "conversation_id": "2066414001484136584",
+        "created_at": "2026-06-15T06:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066414001484136584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZY587J8F92",
+              "end": 71,
+              "expanded_url": "https://x.com/iirin_120917/status/2066414001484136584/photo/1",
+              "media_key": "3_2066413993158393856",
+              "start": 48,
+              "url": "https://t.co/ZY587J8F92"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066414001484136584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2338,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "fuckfuck\n13.霖这里，不会再发任何敏感不当内容了，我完全遵守x规则🤤寻回互关求转…… https://t.co/ZY587J8F92"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|最爱的骚b❤️：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 250,
+          "like_count": 827,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 247
+        },
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-17T14:42:25.000Z",
+        "description": "13.0\n被幽灵ban了。\n大号@Shivam3228\n主人@niconekkod\n牛马💊@BhawnaniSamit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "niconekkod"
+              },
+              {
+                "end": 59,
+                "start": 45,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/SupDiuZTRD"
+              }
+            ]
+          }
+        },
+        "id": "1483087280764071945",
+        "location": "你看看你身后",
+        "name": "Selina",
+        "pinned_tweet_id": "2066414001484136584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066411684496052224/p5_CdLjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 76,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/SupDiuZTRD",
+        "username": "iirin_120917",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2066405405954314500",
+    "created_at": "2026-06-16T05:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066755091814838746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520477092751998976",
+          "start": 0,
+          "username": "3pQ8Y4t2VlI0urq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066755091814838746",
+    "in_reply_to_user_id": "1520477092751998976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066741553603989588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3pQ8Y4t2VlI0urq 乳白色颗粒状结晶粉末，略有刺鼻气味，对粘膜刺激性和腐蚀性较强，水溶性良好。不确定纯度的话也许跟对方要一下coa？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2066405405954314500",
+        "created_at": "2026-06-16T05:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066755091814838746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520477092751998976",
+              "start": 0,
+              "username": "3pQ8Y4t2VlI0urq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066755091814838746",
+        "in_reply_to_user_id": "1520477092751998976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066741553603989588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3pQ8Y4t2VlI0urq 乳白色颗粒状结晶粉末，略有刺鼻气味，对粘膜刺激性和腐蚀性较强，水溶性良好。不确定纯度的话也许跟对方要一下coa？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520477092751998976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2066405405954314500",
+        "created_at": "2026-06-16T04:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066741553603989588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066741553603989588",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066731060948607120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 味道呢？详细描述一下？我的5g快吃完了，确实是强阿片，但是颜色有点米。且气味太地狱。我怕不纯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|最爱的骚b❤️：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 255,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 261
+        },
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T18:57:25.000Z",
+        "description": "精神疾病/重抑重焦/od/生命科学专业",
+        "id": "1520477092751998976",
+        "name": "时空鲨鱼皮",
+        "pinned_tweet_id": "1742578852528902463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701116063419887616/w5Q6c-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 250,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "username": "3pQ8Y4t2VlI0urq",
+        "verified": false
+      }
+    ]
+  }
+}

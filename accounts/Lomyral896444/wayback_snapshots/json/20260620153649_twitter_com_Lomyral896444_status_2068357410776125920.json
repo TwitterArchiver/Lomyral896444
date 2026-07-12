@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068357408485953536"
+      ]
+    },
+    "author_id": "2065149033379971072",
+    "conversation_id": "2068355585436004746",
+    "created_at": "2026-06-20T15:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068357410776125920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047894021457211393",
+          "start": 0,
+          "username": "FanQie_QianQian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mINNDlv6t6",
+          "end": 40,
+          "expanded_url": "https://x.com/Lomyral896444/status/2068357410776125920/photo/1",
+          "media_key": "3_2068357408485953536",
+          "start": 17,
+          "url": "https://t.co/mINNDlv6t6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068357410776125920",
+    "in_reply_to_user_id": "2047894021457211393",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068355585436004746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_QianQian https://t.co/mINNDlv6t6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 276,
+        "media_key": "3_2068357408485953536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRIGrlaUAAf_p3.jpg",
+        "width": 276
+      },
+      {
+        "height": 673,
+        "media_key": "3_2068355582961270784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRGca-aQAARZBY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068357408485953536"
+          ]
+        },
+        "author_id": "2065149033379971072",
+        "conversation_id": "2068355585436004746",
+        "created_at": "2026-06-20T15:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068357410776125920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047894021457211393",
+              "start": 0,
+              "username": "FanQie_QianQian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mINNDlv6t6",
+              "end": 40,
+              "expanded_url": "https://x.com/Lomyral896444/status/2068357410776125920/photo/1",
+              "media_key": "3_2068357408485953536",
+              "start": 17,
+              "url": "https://t.co/mINNDlv6t6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068357410776125920",
+        "in_reply_to_user_id": "2047894021457211393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068355585436004746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_QianQian https://t.co/mINNDlv6t6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068355582961270784"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2068355585436004746",
+        "created_at": "2026-06-20T15:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068355585436004746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SqtacIurYm",
+              "end": 40,
+              "expanded_url": "https://x.com/FanQie_QianQian/status/2068355585436004746/photo/1",
+              "media_key": "3_2068355582961270784",
+              "start": 17,
+              "url": "https://t.co/SqtacIurYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068355585436004746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵喵喵喵喵喵喵喵喵🤤🤤🤤🤤🤤 https://t.co/SqtacIurYm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|最爱的骚b❤️：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "TheB17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/QwIZQw05Ms"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 362,
+          "like_count": 1851,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 483
+        },
+        "url": "https://t.co/QwIZQw05Ms",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "重生之8.0\n11年 順女 LGBTQ全友好 無門也不接線下\n\n另一個我@_FanQie11_\n\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FanQie11_"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_1",
+                "start": 0,
+                "url": "https://t.co/JbrJBgq8ZL"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "name": "飯企鵝8.0",
+        "pinned_tweet_id": "2065786713256141126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057140948434649088/mo_BXY2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 73,
+          "like_count": 4153,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/JbrJBgq8ZL",
+        "username": "FanQie_QianQian",
+        "verified": false
+      }
+    ]
+  }
+}

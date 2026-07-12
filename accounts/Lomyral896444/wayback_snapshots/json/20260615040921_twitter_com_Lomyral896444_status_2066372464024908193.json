@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066372456693256192"
+      ]
+    },
+    "author_id": "2065149033379971072",
+    "conversation_id": "2066372464024908193",
+    "created_at": "2026-06-15T04:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066372464024908193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W3FF3StCZR",
+          "end": 137,
+          "expanded_url": "https://x.com/Lomyral896444/status/2066372464024908193/photo/1",
+          "media_key": "3_2066372456693256192",
+          "start": 114,
+          "url": "https://t.co/W3FF3StCZR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066372464024908193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有联动。呼吸抑制是延髓呼吸节律中枢的mor被大量激动而产生的，但是由高DA促释放的内源性阿片肽很少，且作用局部又有限，因此这种情况我个人认为应该是交感神经系统过度兴奋，导致过度换气及脑血管收缩，所以才会有喘不来气以及发飘的感觉 https://t.co/W3FF3StCZR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_2066372456693256192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK06zR7aUAAI6XY.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066372456693256192"
+          ]
+        },
+        "author_id": "2065149033379971072",
+        "conversation_id": "2066372464024908193",
+        "created_at": "2026-06-15T04:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066372464024908193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W3FF3StCZR",
+              "end": 137,
+              "expanded_url": "https://x.com/Lomyral896444/status/2066372464024908193/photo/1",
+              "media_key": "3_2066372456693256192",
+              "start": 114,
+              "url": "https://t.co/W3FF3StCZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066372464024908193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有联动。呼吸抑制是延髓呼吸节律中枢的mor被大量激动而产生的，但是由高DA促释放的内源性阿片肽很少，且作用局部又有限，因此这种情况我个人认为应该是交感神经系统过度兴奋，导致过度换气及脑血管收缩，所以才会有喘不来气以及发飘的感觉 https://t.co/W3FF3StCZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|骚b：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 224,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 185
+        },
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2071245466839494760",
+    "created_at": "2026-06-28T19:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T20:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071310298171265081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541798404321292293",
+          "start": 0,
+          "username": "pao79617382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071310298171265081",
+    "in_reply_to_user_id": "1541798404321292293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071245466839494760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pao79617382 现在未成年有点难()很多医院在处方系统上就禁止给未成年开具普瑞巴林"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071245458832568320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6KxVhbMAAKdGX.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2071245466839494760",
+        "created_at": "2026-06-28T19:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T20:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071310298171265081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541798404321292293",
+              "start": 0,
+              "username": "pao79617382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071310298171265081",
+        "in_reply_to_user_id": "1541798404321292293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071245466839494760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pao79617382 现在未成年有点难()很多医院在处方系统上就禁止给未成年开具普瑞巴林"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071245458832568320"
+          ]
+        },
+        "author_id": "1541798404321292293",
+        "conversation_id": "2071245466839494760",
+        "created_at": "2026-06-28T14:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071245466839494760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yIaNZ5wcOO",
+              "end": 40,
+              "expanded_url": "https://x.com/pao79617382/status/2071245466839494760/photo/1",
+              "media_key": "3_2071245458832568320",
+              "start": 17,
+              "url": "https://t.co/yIaNZ5wcOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071245466839494760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1068,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃孩子你是想开那个普瑞巴林吧🫢 https://t.co/yIaNZ5wcOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推|\n这里是四号机，互关寻回中|最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "username": "Zukawbit"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 441,
+          "like_count": 3502,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-28T14:59:39.000Z",
+        "description": "我是槿爻。09生理女性向女/双相/血od有/友跨/直fo是喜欢你/互关欢迎fo我会回/我会评论装熟欢迎随意互动（English/Japanese勉強中）不键政不吵架不站队专心经营我的糖逼生活。                          ID只是个人属性。有好多女孩子男孩子跟我玩我好开心😋私信没消息提醒看见就回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2872121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2872121",
+                "start": 0,
+                "url": "https://t.co/y7Yg6JKBLv"
+              }
+            ]
+          }
+        },
+        "id": "1541798404321292293",
+        "location": "埃弗拉德金库",
+        "name": "理查德斯特林的梦幻之逼8964",
+        "pinned_tweet_id": "2044419277202264126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023229153244540928/2_YKTroh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 221,
+          "like_count": 9607,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/y7Yg6JKBLv",
+        "username": "pao79617382",
+        "verified": false
+      }
+    ]
+  }
+}

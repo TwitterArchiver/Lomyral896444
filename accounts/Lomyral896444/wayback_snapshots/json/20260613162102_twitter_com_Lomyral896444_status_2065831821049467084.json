@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2063169868665651489",
+    "created_at": "2026-06-13T16:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065831821049467084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782699039139459072",
+          "start": 0,
+          "username": "KiloMaclaren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065831821049467084",
+    "in_reply_to_user_id": "1782699039139459072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063169868665651489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiloMaclaren 除了北上广深这种发达地区，其它地方的药店多多少少都会有甘草片吧？年龄不达标的话试试看替腿脚不方便的老人买来治咳嗽呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2063169868665651489",
+        "created_at": "2026-06-13T16:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065831821049467084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782699039139459072",
+              "start": 0,
+              "username": "KiloMaclaren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065831821049467084",
+        "in_reply_to_user_id": "1782699039139459072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063169868665651489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiloMaclaren 除了北上广深这种发达地区，其它地方的药店多多少少都会有甘草片吧？年龄不达标的话试试看替腿脚不方便的老人买来治咳嗽呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782699039139459072",
+        "conversation_id": "2063169868665651489",
+        "created_at": "2026-06-06T08:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T09:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063169868665651489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063169868665651489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 179,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们药商怎么都只卖玉米和pr80呀，有没有卖复方甘草片的呀我很需要这个。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|骚b：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 186,
+          "like_count": 283,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 98
+        },
+        "username": "Lomyral896444",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-23T09:12:44.000Z",
+        "description": "none",
+        "id": "1782699039139459072",
+        "name": "Kilo Maclaren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933402940670423041/EQG5idmC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 130,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 48
+        },
+        "username": "KiloMaclaren",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2072168543307825337",
+    "created_at": "2026-07-06T16:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T17:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074174528675266784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942770189030023174",
+          "start": 0,
+          "username": "Ariyairis"
+        },
+        {
+          "end": 23,
+          "id": "1775846129243942912",
+          "start": 11,
+          "username": "yelai431420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074174528675266784",
+    "in_reply_to_user_id": "1942770189030023174",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072629192030826601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ariyairis @yelai431420 我看到力，，，🐈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2072168543307825337",
+        "created_at": "2026-07-06T16:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T17:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074174528675266784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942770189030023174",
+              "start": 0,
+              "username": "Ariyairis"
+            },
+            {
+              "end": 23,
+              "id": "1775846129243942912",
+              "start": 11,
+              "username": "yelai431420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074174528675266784",
+        "in_reply_to_user_id": "1942770189030023174",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072629192030826601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ariyairis @yelai431420 我看到力，，，🐈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942770189030023174",
+        "conversation_id": "2072168543307825337",
+        "created_at": "2026-07-02T10:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072629192030826601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1775846129243942912",
+              "start": 0,
+              "username": "yelai431420"
+            },
+            {
+              "end": 27,
+              "id": "2065149033379971072",
+              "start": 13,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072629192030826601",
+        "in_reply_to_user_id": "1775846129243942912",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072168543307825337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yelai431420 @Lomyral896444"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|\nINTP/重抑中焦|\n碎碎念推，不吸毒|\n这里是四号机，互关寻回中|\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Zukawbit"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 447,
+          "like_count": 3869,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 892
+        },
+        "url": "",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-09T02:18:21.000Z",
+        "description": "我是可爱的超级天使酱哦！2008.1.22｜水瓶座｜adhd｜焦虑｜抑郁 可以互fo/找我玩",
+        "id": "1942770189030023174",
+        "name": "Ariya",
+        "pinned_tweet_id": "2073278793591185853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032773880352485376/-vXmFljl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 414,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "Ariyairis",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "overdose💊///爱人TV幸存者/消极自由/https://t.co/yiPFTgfmTr /https://t.co/7qeRebGwM5\n君:@LunaticImbecile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 76,
+                "username": "LunaticImbecile"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 48,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 25,
+                "url": "https://t.co/yiPFTgfmTr"
+              },
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 73,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 50,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "能共同微笑是件幸福的事",
+        "name": "yella nagisa～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 222,
+          "like_count": 2240,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 476
+        },
+        "url": "",
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

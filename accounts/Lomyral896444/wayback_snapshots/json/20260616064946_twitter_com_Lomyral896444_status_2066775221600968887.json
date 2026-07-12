@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2066737074271912376",
+    "created_at": "2026-06-16T06:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066775221600968887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058988352054218752",
+          "start": 0,
+          "username": "Ta1z19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066775221600968887",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066737074271912376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1z19 v我5t看看实力🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066737063995805696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6GaN-akAACXmq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2066737074271912376",
+        "created_at": "2026-06-16T06:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066775221600968887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066775221600968887",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066737074271912376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 v我5t看看实力🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066737063995805696"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066737074271912376",
+        "created_at": "2026-06-16T04:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066737074271912376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TecG1APdu",
+              "end": 28,
+              "expanded_url": "https://x.com/Ta1z19/status/2066737074271912376/photo/1",
+              "media_key": "3_2066737063995805696",
+              "start": 5,
+              "url": "https://t.co/4TecG1APdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066737074271912376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "针针扎！ https://t.co/4TecG1APdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|最爱的骚b❤️：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 258,
+          "like_count": 892,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 269
+        },
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "九维度\n🎵🎸与bass手 迷幻掌控者 油灯管信徒 💉信徒\n药理学爱好者/化学爱好者/种植爱好者/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "太子喵3.0",
+        "pinned_tweet_id": "2058989881578369497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 46,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 340
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

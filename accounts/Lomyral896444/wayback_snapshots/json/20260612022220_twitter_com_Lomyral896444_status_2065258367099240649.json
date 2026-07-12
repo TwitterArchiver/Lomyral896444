@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065258359411089409"
+      ]
+    },
+    "author_id": "2065149033379971072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065258367099240649",
+    "created_at": "2026-06-12T02:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T03:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065258367099240649"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XKdJ4xVoeZ",
+          "end": 30,
+          "expanded_url": "https://x.com/Lomyral896444/status/2065258367099240649/photo/1",
+          "media_key": "3_2065258359411089409",
+          "start": 7,
+          "url": "https://t.co/XKdJ4xVoeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065258367099240649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "mentionedUsers",
+    "text": "一直在听呃呃 https://t.co/XKdJ4xVoeZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065258359411089409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlFiSIaoAEscvH.jpg",
+        "width": 1035
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065258359411089409"
+          ]
+        },
+        "author_id": "2065149033379971072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065258367099240649",
+        "created_at": "2026-06-12T02:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T03:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065258367099240649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKdJ4xVoeZ",
+              "end": 30,
+              "expanded_url": "https://x.com/Lomyral896444/status/2065258367099240649/photo/1",
+              "media_key": "3_2065258359411089409",
+              "start": 7,
+              "url": "https://t.co/XKdJ4xVoeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065258367099240649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "一直在听呃呃 https://t.co/XKdJ4xVoeZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|法：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 68,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0(已谔谔)",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 43,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "Lomyral896444",
+        "verified": false
+      }
+    ]
+  }
+}

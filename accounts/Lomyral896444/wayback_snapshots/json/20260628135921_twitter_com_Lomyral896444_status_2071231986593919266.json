@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2070910329891291624",
+    "created_at": "2026-06-28T13:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071231986593919266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1896904934995656704",
+          "start": 0,
+          "username": "penpunx"
+        },
+        {
+          "end": 18,
+          "id": "55964567",
+          "start": 9,
+          "username": "wuzuolai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071231986593919266",
+    "in_reply_to_user_id": "1896904934995656704",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071202999545029070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@penpunx @wuzuolai 👍🏻👍🏻👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2070910329891291624",
+        "created_at": "2026-06-28T13:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071231986593919266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1896904934995656704",
+              "start": 0,
+              "username": "penpunx"
+            },
+            {
+              "end": 18,
+              "id": "55964567",
+              "start": 9,
+              "username": "wuzuolai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071231986593919266",
+        "in_reply_to_user_id": "1896904934995656704",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071202999545029070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@penpunx @wuzuolai 👍🏻👍🏻👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896904934995656704",
+        "conversation_id": "2070910329891291624",
+        "created_at": "2026-06-28T12:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071202999545029070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "55964567",
+              "start": 0,
+              "username": "wuzuolai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071202999545029070",
+        "in_reply_to_user_id": "55964567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070910329891291624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuzuolai 习近平不打飞机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推|\n这里是四号机，互关寻回中|最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "username": "Zukawbit"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 440,
+          "like_count": 3421,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 775
+        },
+        "url": "",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-04T12:46:03.000Z",
+        "description": "",
+        "id": "1896904934995656704",
+        "location": "万物",
+        "name": "天",
+        "pinned_tweet_id": "2067881540420620775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064601020559396864/7ktj6vNY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 597,
+          "like_count": 14349,
+          "listed_count": 1,
+          "media_count": 714,
+          "tweet_count": 5791
+        },
+        "url": "",
+        "username": "penpunx",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-11T23:50:54.000Z",
+        "description": "独立学者 价值主义者 六四早晨最后一批撤离广场。因零八宪章第一批签名被撤职。 专栏与评论文章三百余篇，见：新京报、南方都市报，南方周末、中国青年报、东方早报、人民日报、新华网、中国青年报、环球时报 德国之声、BBC中文、风传媒、（台湾）中央广播电台、法广中文、CNN中文、动向、苹果日报（香港）东方日报另有编著十余种。",
+        "id": "55964567",
+        "location": "美国　洛杉矶",
+        "name": "吴祚来",
+        "pinned_tweet_id": "2070910329891291624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911452604376256512/WBYsM3QZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286119,
+          "following_count": 1601,
+          "like_count": 11786,
+          "listed_count": 1034,
+          "media_count": 10552,
+          "tweet_count": 69949
+        },
+        "url": "",
+        "username": "wuzuolai",
+        "verified": true
+      }
+    ]
+  }
+}

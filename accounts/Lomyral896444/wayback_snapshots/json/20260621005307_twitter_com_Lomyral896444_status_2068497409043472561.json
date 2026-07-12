@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2068322824318771517",
+    "created_at": "2026-06-21T00:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T01:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068497409043472561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1529777316762595328",
+          "start": 0,
+          "username": "AutumnMoon0731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068497409043472561",
+    "in_reply_to_user_id": "1529777316762595328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068322824318771517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AutumnMoon0731 冷笑话你赢了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2068322811387781120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQoo3WbIAAPM91.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2068322824318771517",
+        "created_at": "2026-06-21T00:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068497409043472561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529777316762595328",
+              "start": 0,
+              "username": "AutumnMoon0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068497409043472561",
+        "in_reply_to_user_id": "1529777316762595328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068322824318771517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AutumnMoon0731 冷笑话你赢了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068322811387781120"
+          ]
+        },
+        "author_id": "1529777316762595328",
+        "conversation_id": "2068322824318771517",
+        "created_at": "2026-06-20T13:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068322824318771517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjiuc307zk",
+              "end": 27,
+              "expanded_url": "https://x.com/AutumnMoon0731/status/2068322824318771517/photo/1",
+              "media_key": "3_2068322811387781120",
+              "start": 4,
+              "url": "https://t.co/cjiuc307zk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068322824318771517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1101,
+          "impression_count": 97579,
+          "like_count": 15201,
+          "quote_count": 32,
+          "reply_count": 13,
+          "retweet_count": 1650
+        },
+        "reply_settings": "everyone",
+        "text": "我哭了 https://t.co/cjiuc307zk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|最爱的骚b❤️：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "TheB17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/QwIZQw05Ms"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 371,
+          "like_count": 1900,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/QwIZQw05Ms",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-26T10:52:08.000Z",
+        "description": "雜多（ranfren主要）/cp雜多/乙女向/oc ///AI學習🚫/未經允許轉載🚫\n@riifumausu_0o0 r18帳",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "riifumausu_0o0"
+              }
+            ]
+          }
+        },
+        "id": "1529777316762595328",
+        "name": "葉鼠",
+        "pinned_tweet_id": "2038294281631490531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039928776407351296/rCpV2j6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 132,
+          "like_count": 4030,
+          "listed_count": 1,
+          "media_count": 255,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "AutumnMoon0731",
+        "verified": false
+      }
+    ]
+  }
+}

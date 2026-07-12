@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2069628122799223043",
+    "created_at": "2026-06-24T07:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069686028970131484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "ShiroSkura"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Drug Community is a JSON-powered encyclopedia of psychoactive substances, subjective effects, and experience data.",
+          "display_url": "drug.community",
+          "end": 90,
+          "expanded_url": "http://drug.community",
+          "start": 67,
+          "status": 200,
+          "title": "Drug Community",
+          "unwound_url": "https://drug.community/",
+          "url": "https://t.co/S1HKCVaLBy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069686028970131484",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069684967425110458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSkura psychonaut wiki上的内容并不是百分百正确的，它给出的噻萘普汀的推荐剂量就很明显不对🥺ic-26在https://t.co/S1HKCVaLBy上有相关界面，但是该页面common以上的剂量推荐有问题，common及以下的具参考价值。另外缺乏充分研究在rc市场上是常态，转向更危险的rc也是药物被列管后的无奈之举😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2069628122799223043",
+        "created_at": "2026-06-24T07:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069686028970131484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "ShiroSkura"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Drug Community is a JSON-powered encyclopedia of psychoactive substances, subjective effects, and experience data.",
+              "display_url": "drug.community",
+              "end": 90,
+              "expanded_url": "http://drug.community",
+              "start": 67,
+              "status": 200,
+              "title": "Drug Community",
+              "unwound_url": "https://drug.community/",
+              "url": "https://t.co/S1HKCVaLBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069686028970131484",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069684967425110458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSkura psychonaut wiki上的内容并不是百分百正确的，它给出的噻萘普汀的推荐剂量就很明显不对🥺ic-26在https://t.co/S1HKCVaLBy上有相关界面，但是该页面common以上的剂量推荐有问题，common及以下的具参考价值。另外缺乏充分研究在rc市场上是常态，转向更危险的rc也是药物被列管后的无奈之举😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "2069628122799223043",
+        "created_at": "2026-06-24T07:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069684967425110458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069684967425110458",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这玩意儿连个psychonautwiki界面都没有，在人体身上的研究数据基本为零，再加上有吃死过人的案例很难让人安心吧\n\n我不反对低价rc啊，如果是低价安全的物质我肯定举手投足叫好，但是这玩意儿真的合适流出这么多吗，有没有想过万一再出一个爱德华会怎么样？\n\n为oder着想没问题低价rc也没问题但问题是这个物质本身不够安全，如果拼的是有足够使用记录明确剂量的东西我半句话也不会说"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069682674105716770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 这玩意儿连个psychonautwiki界面都没有，在人体身上的研究数据基本为零，再加上有吃死过人的案例很难让人安心吧\n\n我不反对低价rc啊，如果是低价安全的物质我肯定举手投足叫好，但是这玩意儿真的合适流出这么多吗，有没有想过万一再出一个爱德华会怎么样？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|最爱的骚b❤️：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "TheB17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/QwIZQw05Ms"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 404,
+          "like_count": 2324,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/QwIZQw05Ms",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "17岁生活在Kennewick的天才美少女\n想知道我是谁？才不告诉你！",
+        "id": "1662439435726905344",
+        "location": "Kennewick, WA",
+        "name": "Morikawa Ayako",
+        "pinned_tweet_id": "2050732326112448575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067149046553116672/oFw5Xfeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 40,
+          "like_count": 11421,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 46
+        },
+        "url": "",
+        "username": "ShiroSkura",
+        "verified": true
+      }
+    ]
+  }
+}

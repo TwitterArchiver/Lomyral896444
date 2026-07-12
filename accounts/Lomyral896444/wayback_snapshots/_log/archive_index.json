@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T00:41:16",
+  "last_updated": "2026-07-12T00:41:57",
   "html": {
     "https://web.archive.org/web/20260612012007if_/https://twitter.com/Lomyral896444/status/2065242711129772106": {
       "status": "done",
@@ -7147,7 +7147,7 @@
       "last_updated": "2026-07-12T00:07:40"
     },
     "https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260613093024_twitter_com_Lomyral896444_status_2065728481640829389.json",
         "20260617013447_twitter_com_Lomyral896444_status_2067058340438687777.json",
@@ -7157,9 +7157,9 @@
         "20260630163442_twitter_com_Lomyral896444_status_2071995856933527789.json",
         "20260630163449_twitter_com_Lomyral896444_status_2071995885664489978.json"
       ],
-      "last_updated": "2026-07-12T00:07:43",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630163449if_/https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c181dd3a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:41:34",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260630163449if_/https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1933402940670423041/EQG5idmC_normal.jpg": {
       "status": "done",
@@ -7693,9 +7693,9 @@
       "referenced_by": [
         "20260616170012_twitter_com_Lomyral896444_status_2066928842082787619.json"
       ],
-      "last_updated": "2026-07-12T00:07:43",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616170012if_/https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c181bc140>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:41:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616170012im_/https://pbs.twimg.com/profile_images/2061736621465346048/7Ddy5_W7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0fe62c6360>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2031379640661819392/Elm7MWFq_normal.jpg": {
       "status": "done",
@@ -7713,13 +7713,13 @@
       "last_updated": "2026-07-12T00:07:41"
     },
     "https://pbs.twimg.com/profile_images/2066829269351936000/rQk9sFxm_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260617032522_twitter_com_Lomyral896444_status_2067086172153946528.json"
       ],
-      "last_updated": "2026-07-12T00:07:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617032522if_/https://pbs.twimg.com/profile_images/2066829269351936000/rQk9sFxm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c181975f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:41:33",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260617032522if_/https://pbs.twimg.com/profile_images/2066829269351936000/rQk9sFxm_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2051932726954172416/SzJfuOgl_normal.jpg": {
       "status": "done",
@@ -7952,23 +7952,23 @@
       "last_updated": "2026-07-12T00:07:41"
     },
     "https://pbs.twimg.com/profile_images/2067542157100232704/cUFqWLKW_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260618171955_twitter_com_Lomyral896444_status_2067658579746881552.json",
         "20260618172831_twitter_com_Lomyral896444_status_2067660746247557418.json"
       ],
-      "last_updated": "2026-07-12T00:07:43",
+      "last_updated": "2026-07-12T00:41:31",
       "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260618172831if_/https://pbs.twimg.com/profile_images/2067542157100232704/cUFqWLKW_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c182026c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
       "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/2067125474132963328/PSrEI5lW_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260619114356_twitter_com_Lomyral896444_status_2067936415087030399.json"
       ],
-      "last_updated": "2026-07-12T00:07:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260619114356if_/https://pbs.twimg.com/profile_images/2067125474132963328/PSrEI5lW_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c1c5e31a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:41:33",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260619114356if_/https://pbs.twimg.com/profile_images/2067125474132963328/PSrEI5lW_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg": {
       "status": "done",
@@ -8172,18 +8172,18 @@
         "20260621140924_twitter_com_Lomyral896444_status_2068697799169097870.json",
         "20260624140703_twitter_com_Lomyral896444_status_2069784372627316928.json"
       ],
-      "last_updated": "2026-07-12T00:07:43",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624140703if_/https://pbs.twimg.com/profile_images/2068361601422610432/pk2UXCEh_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c18155d30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:41:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260624140703im_/https://pbs.twimg.com/profile_images/2068361601422610432/pk2UXCEh_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0fe62c6690>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2067669742182408192/SiXbw-N2_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260621151501_twitter_com_Lomyral896444_status_2068714311590301916.json"
       ],
-      "last_updated": "2026-07-12T00:07:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621151501if_/https://pbs.twimg.com/profile_images/2067669742182408192/SiXbw-N2_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c1c5e3da0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:41:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621151501im_/https://pbs.twimg.com/profile_images/2067669742182408192/SiXbw-N2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0fe62a35f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg": {
       "status": "done",
@@ -8270,9 +8270,9 @@
         "20260624070553_twitter_com_Lomyral896444_status_2069678381378240879.json",
         "20260630075757_twitter_com_Lomyral896444_status_2071865811095220490.json"
       ],
-      "last_updated": "2026-07-12T00:07:44",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630075757if_/https://pbs.twimg.com/profile_images/2061213364785942529/Vq3wxXGL_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c1c5e28d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:41:57",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630075757im_/https://pbs.twimg.com/profile_images/2061213364785942529/Vq3wxXGL_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f0fe62c4500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg": {
       "status": "done",
@@ -8605,15 +8605,15 @@
       "last_updated": "2026-07-12T00:07:43"
     },
     "https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260629173513_twitter_com_Lomyral896444_status_2071648698849997043.json",
         "20260629174610_twitter_com_Lomyral896444_status_2071651455015198989.json",
         "20260629191457_twitter_com_Lomyral896444_status_2071673797053411350.json"
       ],
-      "last_updated": "2026-07-12T00:07:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260629191457if_/https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c1c5e2ab0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:41:33",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260629191457if_/https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_normal.jpg",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2040048393729585152/7HUeUvwF_normal.jpg": {
       "status": "done",
@@ -8697,13 +8697,13 @@
       "last_updated": "2026-07-12T00:07:43"
     },
     "https://pbs.twimg.com/profile_images/2070836586867314688/LijkHlvD_normal.jpg": {
-      "status": "failed",
+      "status": "done",
       "referenced_by": [
         "20260701175827_twitter_com_Lomyral896444_status_2072379319721373893.json"
       ],
-      "last_updated": "2026-07-12T00:07:45",
-      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701175827if_/https://pbs.twimg.com/profile_images/2070836586867314688/LijkHlvD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f1c1c581ca0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
-      "miss_count": 1
+      "last_updated": "2026-07-12T00:41:57",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701175827if_/https://pbs.twimg.com/profile_images/2070836586867314688/LijkHlvD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7fd4a0fb59d0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2069721457878310912/nmu30i56_normal.jpg": {
       "status": "done",
@@ -9806,7 +9806,7 @@
       "last_updated": "2026-07-12T00:07:40"
     },
     "20260613093024_twitter_com_Lomyral896444_status_2065728481640829389.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -9815,7 +9815,7 @@
           "https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:34",
       "miss_count": 2
     },
     "20260613093059_twitter_com_Lomyral896444_status_2065728631402561601.json": {
@@ -12558,7 +12558,7 @@
       "last_updated": "2026-07-12T00:07:40"
     },
     "20260617013447_twitter_com_Lomyral896444_status_2067058340438687777.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12567,7 +12567,7 @@
           "https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:34",
       "miss_count": 2
     },
     "20260617013510_twitter_com_Lomyral896444_status_2067058438115402215.json": {
@@ -12597,7 +12597,7 @@
       "last_updated": "2026-07-12T00:07:41"
     },
     "20260617032522_twitter_com_Lomyral896444_status_2067086172153946528.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -12606,7 +12606,7 @@
           "https://pbs.twimg.com/profile_images/2066829269351936000/rQk9sFxm_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:33",
       "miss_count": 2
     },
     "20260617032602_twitter_com_Lomyral896444_status_2067086338042781917.json": {
@@ -13831,7 +13831,7 @@
       "last_updated": "2026-07-12T00:07:41"
     },
     "20260618171955_twitter_com_Lomyral896444_status_2067658579746881552.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -13842,7 +13842,7 @@
           "https://pbs.twimg.com/profile_images/2067542157100232704/cUFqWLKW_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:16",
+      "last_updated": "2026-07-12T00:41:31",
       "miss_count": 2
     },
     "20260618172831_twitter_com_Lomyral896444_status_2067660746247557418.json": {
@@ -13995,7 +13995,7 @@
       "last_updated": "2026-07-12T00:07:40"
     },
     "20260619114356_twitter_com_Lomyral896444_status_2067936415087030399.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -14005,7 +14005,7 @@
           "https://pbs.twimg.com/profile_images/2067125474132963328/PSrEI5lW_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:33",
       "miss_count": 2
     },
     "20260619114426_twitter_com_Lomyral896444_status_2067936540811198507.json": {
@@ -19200,7 +19200,7 @@
       "miss_count": 1
     },
     "20260629173513_twitter_com_Lomyral896444_status_2071648698849997043.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HL8thmfbQAA_kxv.jpg"
@@ -19211,11 +19211,11 @@
           "https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:33",
       "miss_count": 2
     },
     "20260629174610_twitter_com_Lomyral896444_status_2071651455015198989.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -19225,7 +19225,7 @@
           "https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:33",
       "miss_count": 2
     },
     "20260629174712_twitter_com_Lomyral896444_status_2071651714349101446.json": {
@@ -19312,7 +19312,7 @@
       "last_updated": "2026-07-12T00:07:40"
     },
     "20260629191457_twitter_com_Lomyral896444_status_2071673797053411350.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -19321,7 +19321,7 @@
           "https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:33",
       "miss_count": 2
     },
     "20260629193404_twitter_com_Lomyral896444_status_2071678605973917971.json": {
@@ -19769,7 +19769,7 @@
       "last_updated": "2026-07-12T00:07:40"
     },
     "20260630160916_twitter_com_Lomyral896444_status_2071989457356726314.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -19779,11 +19779,11 @@
           "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:34",
       "miss_count": 2
     },
     "20260630160938_twitter_com_Lomyral896444_status_2071989545634234653.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -19793,7 +19793,7 @@
           "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:34",
       "miss_count": 2
     },
     "20260630162015_twitter_com_Lomyral896444_status_2071992220333584702.json": {
@@ -19821,7 +19821,7 @@
       "last_updated": "2026-07-12T00:07:43"
     },
     "20260630163419_twitter_com_Lomyral896444_status_2071995760120619349.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -19830,11 +19830,11 @@
           "https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:34",
       "miss_count": 2
     },
     "20260630163442_twitter_com_Lomyral896444_status_2071995856933527789.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -19843,11 +19843,11 @@
           "https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:34",
       "miss_count": 2
     },
     "20260630163449_twitter_com_Lomyral896444_status_2071995885664489978.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -19857,7 +19857,7 @@
           "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:34",
       "miss_count": 2
     },
     "20260630163512_twitter_com_Lomyral896444_status_2071995979600122232.json": {
@@ -20362,7 +20362,7 @@
       "last_updated": "2026-07-12T00:07:41"
     },
     "20260701175827_twitter_com_Lomyral896444_status_2072379319721373893.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -20371,7 +20371,7 @@
           "https://pbs.twimg.com/profile_images/2070836586867314688/LijkHlvD_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-12T00:41:13",
+      "last_updated": "2026-07-12T00:41:57",
       "miss_count": 2
     },
     "20260701175841_twitter_com_Lomyral896444_status_2072379376797450294.json": {

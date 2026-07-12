@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-12T01:06:56",
+  "last_updated": "2026-07-12T01:07:11",
   "html": {
     "https://web.archive.org/web/20260612012007if_/https://twitter.com/Lomyral896444/status/2065242711129772106": {
       "status": "done",
@@ -5417,9 +5417,9 @@
       "referenced_by": [
         "20260618171955_twitter_com_Lomyral896444_status_2067658579746881552.json"
       ],
-      "last_updated": "2026-07-12T00:41:16",
+      "last_updated": "2026-07-12T01:07:11",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260618171955/https://video.twimg.com/amplify_video/2067609445312651264/vid/avc1/720x1280/dTHeZZwVkl4AZAAO.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2067975312835772416/vid/avc1/720x1280/zhkonTSu9dZ3m8b0.mp4": {
       "status": "done",

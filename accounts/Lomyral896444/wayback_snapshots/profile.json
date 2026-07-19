@@ -1,7 +1,7 @@
 {
   "name": "Lomyral 4.0",
   "username": "@Lomyral896444",
-  "bio": "enby，he/they(他/ta)| INTP/重抑中焦| 碎碎念推，不吸毒| 这里是四号机，互关寻回中| 最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+  "bio": "enby，he/they(他/ta)|\nINTP/重抑中焦|\n碎碎念推，不吸毒|\n这里是四号机，互关寻回中|\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
   "location": "",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,10 +10,16 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 79,
-        "start": 68,
+        "end": 74,
+        "start": 63,
         "username": "TheB17w153"
+      },
+      {
+        "end": 89,
+        "start": 80,
+        "username": "Zukawbit"
       }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg"
 }

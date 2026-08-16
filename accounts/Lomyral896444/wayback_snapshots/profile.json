@@ -1,22 +1,22 @@
 {
   "name": "Lomyral 4.0",
   "username": "@Lomyral896444",
-  "bio": "enby，he/they(他/ta)| INTP/重抑中焦| 碎碎念推，不吸毒| 这里是四号机，互关寻回中| 最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+  "bio": "enby，he/they(他/ta)|INTP/重抑中焦 最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit 碎碎念推，不吸毒|这里是四号机，互关寻回中，下面是匿名提问箱",
   "location": "",
-  "link": "",
+  "link": "https://peing.net/zh-TW/lomyral",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2070796191520952604",
   "bio_entities": {
     "mentions": [
       {
-        "end": 74,
-        "start": 63,
+        "end": 48,
+        "start": 37,
         "username": "TheB17w153"
       },
       {
-        "end": 89,
-        "start": 80,
+        "end": 63,
+        "start": 54,
         "username": "Zukawbit"
       }
     ]

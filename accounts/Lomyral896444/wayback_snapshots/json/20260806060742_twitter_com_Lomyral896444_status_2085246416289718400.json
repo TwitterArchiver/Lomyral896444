@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2080497572649848865",
+    "created_at": "2026-08-06T06:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085246416289718400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782699039139459072",
+          "start": 0,
+          "username": "KiloMaclaren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085246416289718400",
+    "in_reply_to_user_id": "1782699039139459072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080816658332164147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiloMaclaren 不建议静脉注射1161，对血管的腐蚀性和刺激性比较强呃呃呃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2080497572649848865",
+        "created_at": "2026-08-06T06:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085246416289718400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782699039139459072",
+              "start": 0,
+              "username": "KiloMaclaren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085246416289718400",
+        "in_reply_to_user_id": "1782699039139459072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080816658332164147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiloMaclaren 不建议静脉注射1161，对血管的腐蚀性和刺激性比较强呃呃呃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782699039139459072",
+        "conversation_id": "2080497572649848865",
+        "created_at": "2026-07-25T00:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T01:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080816658332164147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080816658332164147",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080497572649848865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 为什么你们都是鼻吸，没有静脉注射的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|INTP/重抑中焦\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit\n碎碎念推，不吸毒|这里是四号机，互关寻回中，下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWAsHM"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 477,
+          "like_count": 4492,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/WpWmwWAsHM",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-23T09:12:44.000Z",
+        "description": "none",
+        "id": "1782699039139459072",
+        "name": "Kilo Maclaren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075166904948588545/zTeaKviw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 165,
+          "like_count": 686,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "KiloMaclaren",
+        "verified": false
+      }
+    ]
+  }
+}

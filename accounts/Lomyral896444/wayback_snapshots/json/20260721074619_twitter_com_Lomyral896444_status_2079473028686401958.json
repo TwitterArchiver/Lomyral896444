@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079473019035234305"
+      ]
+    },
+    "author_id": "2065149033379971072",
+    "conversation_id": "2079473028686401958",
+    "created_at": "2026-07-21T07:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079473028686401958"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jPX1IE9jUe",
+          "end": 246,
+          "expanded_url": "https://x.com/Lomyral896444/status/2079473028686401958/photo/1",
+          "media_key": "3_2079473019035234305",
+          "start": 223,
+          "url": "https://t.co/jPX1IE9jUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079473028686401958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "y.music.163.com/m/song?id=2069…",
+            "end": 897,
+            "expanded_url": "https://y.music.163.com/m/song?id=2069244626",
+            "start": 874,
+            "url": "https://t.co/g6VWCS1RMl"
+          }
+        ]
+      },
+      "text": "Take your aim, \n瞄准我吧，\nI think that Aphrodite's, \n我想，阿弗洛狄忒，\nGot her trigger finger on me, \n正对准我扣紧扳机，\nI say your name, \n而我说出了你的名字，\nAnd the way that you respond, \n你的反应却让我迟疑，\nGot me wondering if you want me, \n你是否真的想和我一起，\nDon't spend your nights crying alone, \n不要在夜里偷偷哭泣吧，\nDon't wanna hear your tears through the phone, \n我不想听见，你在手机另一头啜泣，\nIf you're gonna cry anyways, \n如果，你的确噙不住眼泪的话，\nYou might as well cry in my arms, \n就请到我的怀里，放声大哭吧。Drawn to flame, \n我被火光吸引，\nTo you I am a moth, \n对你而言，我就像是一只飞蛾，\nAnd I'm just orbiting your lantern, \n时时刻刻，围绕你的灯笼飞行，\nWhat a shame, \n也很遗憾吧，\nYou've become my everything, \n你早已成为我眼里的一切，\nBut to you, \n但是对你而言，\nI don't really matter, \n我也真的，没有那么重要对吧，\nDon't spend your nights crying alone, \n不要在夜里偷偷哭泣吧，\nDon't wanna hear your tears through the phone, \n我不要只听见你抽泣的声音，\nIf you're gonna cry anyways, \n如果，你一定止不住眼泪的话，\nYou might as well cry in my arms, \n就请到我的怀里，放声大哭吧。\n\nhttps://t.co/g6VWCS1RMl"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Take your aim, \n瞄准我吧，\nI think that Aphrodite's, \n我想，阿弗洛狄忒，\nGot her trigger finger on me, \n正对准我扣紧扳机，\nI say your name, \n而我说出了你的名字，\nAnd the way that you respond, \n你的反应却让我迟疑，\nGot me wondering if you want me, \n你是否真的想和我一起，\nDon't https://t.co/jPX1IE9jUe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079473019035234305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvFsXuasAEyMzp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079473019035234305"
+          ]
+        },
+        "author_id": "2065149033379971072",
+        "conversation_id": "2079473028686401958",
+        "created_at": "2026-07-21T07:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079473028686401958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jPX1IE9jUe",
+              "end": 246,
+              "expanded_url": "https://x.com/Lomyral896444/status/2079473028686401958/photo/1",
+              "media_key": "3_2079473019035234305",
+              "start": 223,
+              "url": "https://t.co/jPX1IE9jUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079473028686401958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "y.music.163.com/m/song?id=2069…",
+                "end": 897,
+                "expanded_url": "https://y.music.163.com/m/song?id=2069244626",
+                "start": 874,
+                "url": "https://t.co/g6VWCS1RMl"
+              }
+            ]
+          },
+          "text": "Take your aim, \n瞄准我吧，\nI think that Aphrodite's, \n我想，阿弗洛狄忒，\nGot her trigger finger on me, \n正对准我扣紧扳机，\nI say your name, \n而我说出了你的名字，\nAnd the way that you respond, \n你的反应却让我迟疑，\nGot me wondering if you want me, \n你是否真的想和我一起，\nDon't spend your nights crying alone, \n不要在夜里偷偷哭泣吧，\nDon't wanna hear your tears through the phone, \n我不想听见，你在手机另一头啜泣，\nIf you're gonna cry anyways, \n如果，你的确噙不住眼泪的话，\nYou might as well cry in my arms, \n就请到我的怀里，放声大哭吧。Drawn to flame, \n我被火光吸引，\nTo you I am a moth, \n对你而言，我就像是一只飞蛾，\nAnd I'm just orbiting your lantern, \n时时刻刻，围绕你的灯笼飞行，\nWhat a shame, \n也很遗憾吧，\nYou've become my everything, \n你早已成为我眼里的一切，\nBut to you, \n但是对你而言，\nI don't really matter, \n我也真的，没有那么重要对吧，\nDon't spend your nights crying alone, \n不要在夜里偷偷哭泣吧，\nDon't wanna hear your tears through the phone, \n我不要只听见你抽泣的声音，\nIf you're gonna cry anyways, \n如果，你一定止不住眼泪的话，\nYou might as well cry in my arms, \n就请到我的怀里，放声大哭吧。\n\nhttps://t.co/g6VWCS1RMl"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Take your aim, \n瞄准我吧，\nI think that Aphrodite's, \n我想，阿弗洛狄忒，\nGot her trigger finger on me, \n正对准我扣紧扳机，\nI say your name, \n而我说出了你的名字，\nAnd the way that you respond, \n你的反应却让我迟疑，\nGot me wondering if you want me, \n你是否真的想和我一起，\nDon't https://t.co/jPX1IE9jUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|\nINTP/重抑中焦|\n碎碎念推，不吸毒|\n这里是四号机，互关寻回中|\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Zukawbit"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 464,
+          "like_count": 4021,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 941
+        },
+        "url": "",
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

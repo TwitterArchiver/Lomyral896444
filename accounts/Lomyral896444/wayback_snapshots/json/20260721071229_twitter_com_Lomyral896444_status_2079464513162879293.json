@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2079279127581036622",
+    "created_at": "2026-07-21T07:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079464513162879293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952660732132425728",
+          "start": 0,
+          "username": "Dead8964line"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079464513162879293",
+    "in_reply_to_user_id": "1952660732132425728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079279131435630787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dead8964line 懂你意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2079279127581036622",
+        "created_at": "2026-07-21T07:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079464513162879293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952660732132425728",
+              "start": 0,
+              "username": "Dead8964line"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079464513162879293",
+        "in_reply_to_user_id": "1952660732132425728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079279131435630787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dead8964line 懂你意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952660732132425728",
+        "conversation_id": "2079279127581036622",
+        "created_at": "2026-07-20T18:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079279131435630787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079279131435630787",
+        "in_reply_to_user_id": "1952660732132425728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079279127581036622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我说其实我喜欢看这种题材有没有懂的（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|\nINTP/重抑中焦|\n碎碎念推，不吸毒|\n这里是四号机，互关寻回中|\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Zukawbit"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 464,
+          "like_count": 4019,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T09:19:39.000Z",
+        "description": "=死线｜LGBTQ+友好｜💛🤍💜🖤｜thay/them｜oder来互fo呀（走来走去）没回fo就是msk吞消息了",
+        "id": "1952660732132425728",
+        "location": "ᴡᴇᴇᴘ ᴀɴᴅ ɢʀᴏᴀɴ ᴡɪᴛʜ ᴍᴇ",
+        "name": "Deadline",
+        "pinned_tweet_id": "2074555042619953622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057060785277542400/AxyLzl8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 64,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "Dead8964line",
+        "verified": false
+      }
+    ]
+  }
+}

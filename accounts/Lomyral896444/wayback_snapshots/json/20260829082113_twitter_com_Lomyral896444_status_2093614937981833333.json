@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2093528309405831618",
+    "created_at": "2026-08-29T08:21:13.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T09:21:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093614937981833333"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093614937981833333",
+    "in_reply_to_user_id": "2065149033379971072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093528309405831618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当时为了开这瓶药一来一回坐了十几个小时的火车，已力竭。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1607,
+        "media_key": "3_2093528289520553984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ204ygakAAUYFx.jpg",
+        "width": 1656
+      },
+      {
+        "height": 2476,
+        "media_key": "3_2093528299582664704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ205X_aMAAXGoU.jpg",
+        "width": 3173
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2093528309405831618",
+        "created_at": "2026-08-29T08:21:13.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093614937981833333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093614937981833333",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093528309405831618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时为了开这瓶药一来一回坐了十几个小时的火车，已力竭。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093528289520553984",
+            "3_2093528299582664704"
+          ]
+        },
+        "author_id": "2065149033379971072",
+        "conversation_id": "2093528309405831618",
+        "created_at": "2026-08-29T02:36:59.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093528309405831618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a5a56oQW4W",
+              "end": 63,
+              "expanded_url": "https://x.com/Lomyral896444/status/2093528309405831618/photo/1",
+              "media_key": "3_2093528289520553984",
+              "start": 40,
+              "url": "https://t.co/a5a56oQW4W"
+            },
+            {
+              "display_url": "pic.x.com/a5a56oQW4W",
+              "end": 63,
+              "expanded_url": "https://x.com/Lomyral896444/status/2093528309405831618/photo/1",
+              "media_key": "3_2093528299582664704",
+              "start": 40,
+              "url": "https://t.co/a5a56oQW4W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093528309405831618",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093528289520553984"
+          },
+          {
+            "media_key": "3_2093528299582664704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "ADHD动力缺失懒得去复诊开药，没有药吃于是继续动力缺失懒得跑医院，循环这一块\n\n毕业后单次开具的量居然比毕业前开具的量还多，当时医生两星期只给我开一瓶药，今年按每日最高治疗剂量给我开七天的处方。接诊的医生一见到我就问“孩子你是来开哌甲酯的吧”，大概是因为我在这家医院有比较长的ADHD病史而且开方记录几乎只有专注达（）\n\n对兴奋剂没什么兴趣大概也有ND人群的一部分原因在，鲜少体验到兴奋剂欣快，大多数情况下只是剧烈高血压剧烈提神然后剧烈法青呜呜。上早课前口服一点我将获得限时健全体验卡\n\n上次来医院开药的时候忘记给处方笺拍照留存了，遂留档纪念一下医生给我开的红处方，，，还没拿热乎就上交药房力"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1329,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ADHD动力缺失懒得去复诊开药，没有药吃于是继续动力缺失懒得跑医院，循环这一块 https://t.co/a5a56oQW4W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|INTP/重抑中焦\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit\n碎碎念推，不吸毒|这里是四号机，互关寻回中，下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWAsHM"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093614937981833333",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065149033379971072/1781340520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 486,
+          "like_count": 4921,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/WpWmwWAsHM",
+        "username": "Lomyral896444",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

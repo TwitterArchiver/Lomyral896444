@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2065149033379971072",
+    "conversation_id": "2093876449640071385",
+    "created_at": "2026-08-30T01:40:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T02:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093876449640071385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2090075074510598144",
+          "start": 3,
+          "username": "yice8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093876449640071385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092231379086118925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yice8964: 99.6%pr 1.7cny/g欢迎私信窝下蛋\n\n（由于化身药代所以自拍和赞赏码都删掉哩）\n18岁女大175cm55kg\n自杀两次失败休学在家\n音乐/动漫/悬疑,言情小说\n双相情感障碍-焦虑症-被迫害妄想症-自残od/\n原推号@chuyinweila…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_2092231363760107520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkZVxjaMAAZeUQ.jpg",
+        "width": 584
+      },
+      {
+        "height": 542,
+        "media_key": "3_2092231371209252865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkZWNTbIAE-_G0.jpg",
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2093876449640071385",
+        "created_at": "2026-08-30T01:40:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T02:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093876449640071385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2090075074510598144",
+              "start": 3,
+              "username": "yice8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093876449640071385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092231379086118925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yice8964: 99.6%pr 1.7cny/g欢迎私信窝下蛋\n\n（由于化身药代所以自拍和赞赏码都删掉哩）\n18岁女大175cm55kg\n自杀两次失败休学在家\n音乐/动漫/悬疑,言情小说\n双相情感障碍-焦虑症-被迫害妄想症-自残od/\n原推号@chuyinweila…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092231363760107520",
+            "3_2092231371209252865"
+          ]
+        },
+        "author_id": "2090075074510598144",
+        "conversation_id": "2092231379086118925",
+        "created_at": "2026-08-25T12:43:27.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092231379086118925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 129,
+              "id": "2071640104716910592",
+              "start": 113,
+              "username": "chuyinweilai114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vgE8VRZs0V",
+              "end": 185,
+              "expanded_url": "https://x.com/yice8964/status/2092231379086118925/photo/1",
+              "media_key": "3_2092231363760107520",
+              "start": 162,
+              "url": "https://t.co/vgE8VRZs0V"
+            },
+            {
+              "display_url": "pic.x.com/vgE8VRZs0V",
+              "end": 185,
+              "expanded_url": "https://x.com/yice8964/status/2092231379086118925/photo/1",
+              "media_key": "3_2092231371209252865",
+              "start": 162,
+              "url": "https://t.co/vgE8VRZs0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092231379086118925",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092231363760107520"
+          },
+          {
+            "media_key": "3_2092231371209252865"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "99.6%pr 1.7cny/g欢迎私信窝下蛋\n\n（由于化身药代所以自拍和赞赏码都删掉哩）\n18岁女大175cm55kg\n自杀两次失败休学在家\n音乐/动漫/悬疑,言情小说\n双相情感障碍-焦虑症-被迫害妄想症-自残od/\n原推号@chuyinweilai114已注销，现有相同id账号为他人自行注册与我无关/\n同类女生互fo https://t.co/vgE8VRZs0V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|INTP/重抑中焦\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit\n碎碎念推，不吸毒|这里是四号机，互关寻回中，下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWAsHM"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093876449640071385",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065149033379971072/1781340520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 486,
+          "like_count": 4959,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/WpWmwWAsHM",
+        "username": "Lomyral896444",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T13:58:10.000Z",
+        "description": "双相情感障碍-焦虑症-被迫害妄想症//原推号\n@chuyinweilai114已注销，现有相同id\n账号为他人自行注册与我无关//同类女生互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 23,
+                "username": "chuyinweilai114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/yice87472",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/yice87472",
+                "start": 0,
+                "url": "https://t.co/tyHWKe0XUa"
+              }
+            ]
+          }
+        },
+        "id": "2090075074510598144",
+        "is_identity_verified": false,
+        "location": "中南海",
+        "most_recent_tweet_id": "2093672372062838793",
+        "name": "yice药代（99.6%普瑞原粉",
+        "pinned_tweet_id": "2092231379086118925",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090116790886244352/P9Ith1JM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 63,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/tyHWKe0XUa",
+        "username": "yice8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

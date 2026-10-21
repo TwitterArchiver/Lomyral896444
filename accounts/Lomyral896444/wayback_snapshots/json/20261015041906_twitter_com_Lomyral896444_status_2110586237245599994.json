@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2110246413892562944"
+      ],
+      "media_source_tweet_id": [
+        "2110246418900463962"
+      ]
+    },
+    "author_id": "2065149033379971072",
+    "conversation_id": "2110586237245599994",
+    "created_at": "2026-10-15T04:19:06.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T05:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110586237245599994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825573182482563072",
+          "start": 3,
+          "username": "cotton0205"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yd0SvhH0WV",
+          "end": 39,
+          "expanded_url": "https://x.com/cotton0205/status/2110246418900463962/photo/1",
+          "media_key": "3_2110246413892562944",
+          "start": 16,
+          "url": "https://t.co/Yd0SvhH0WV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110586237245599994",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2110246413892562944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110246418900463962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cotton0205: https://t.co/Yd0SvhH0WV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2110246413892562944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUkZ7tCbsAA1KCB.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110246413892562944"
+          ],
+          "media_source_tweet_id": [
+            "2110246418900463962"
+          ]
+        },
+        "author_id": "2065149033379971072",
+        "conversation_id": "2110586237245599994",
+        "created_at": "2026-10-15T04:19:06.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T05:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110586237245599994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825573182482563072",
+              "start": 3,
+              "username": "cotton0205"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yd0SvhH0WV",
+              "end": 39,
+              "expanded_url": "https://x.com/cotton0205/status/2110246418900463962/photo/1",
+              "media_key": "3_2110246413892562944",
+              "start": 16,
+              "url": "https://t.co/Yd0SvhH0WV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110586237245599994",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2110246413892562944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110246418900463962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cotton0205: https://t.co/Yd0SvhH0WV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2110246413892562944"
+          ]
+        },
+        "author_id": "1825573182482563072",
+        "conversation_id": "2110246418900463962",
+        "created_at": "2026-10-14T05:48:47.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T06:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110246418900463962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yd0SvhH0WV",
+              "end": 23,
+              "expanded_url": "https://x.com/cotton0205/status/2110246418900463962/photo/1",
+              "media_key": "3_2110246413892562944",
+              "start": 0,
+              "url": "https://t.co/Yd0SvhH0WV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110246418900463962",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2110246413892562944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 7395,
+          "like_count": 512,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Yd0SvhH0WV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|INTP/重抑中焦\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit\n碎碎念推，不吸毒|这里是四号机，互关寻回中，下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWAsHM"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110586237245599994",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065149033379971072/1781340520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 483,
+          "like_count": 5338,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1218
+        },
+        "url": "https://t.co/WpWmwWAsHM",
+        "username": "Lomyral896444",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-19T16:39:11.000Z",
+        "description": "#shtwt｜GAD｜MDD｜SPD｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1825573182482563072",
+        "is_identity_verified": false,
+        "location": "病み垢",
+        "most_recent_tweet_id": "2110246418900463962",
+        "name": "棉棉眠𝚣 ᶻ ᴢ",
+        "pinned_tweet_id": "2090811153576608093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825573182482563072/1783007352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2109313945878319104/BGipVDH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 594,
+          "like_count": 37375,
+          "listed_count": 4,
+          "media_count": 290,
+          "tweet_count": 4969
+        },
+        "url": "",
+        "username": "cotton0205",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
